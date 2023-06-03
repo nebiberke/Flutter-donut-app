@@ -1,16 +1,20 @@
-# donut_app
+# Flutter Donut App Example
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+### Home Page
+<img src="assets/screenshots/home-page.png" />
 
-This project is a starting point for a Flutter application.
+### Home Page 
+<img src="assets/screenshots/home-page2.png" />
 
-A few resources to get you started if this is your first Flutter project:
+### Food Detail Page
+<img src="assets/screenshots/food-detail-page.png" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Source
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tutorial Video
+[Youtube](https://www.youtube.com/watch?v=OmYL-VK75-o)
+
+### Designer
+[Dribble](https://dribbble.com/shots/19649140-App-UI)
